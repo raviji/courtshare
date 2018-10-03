@@ -202,10 +202,6 @@ Apache License
  See the License for the specific language governing permissions and
  limitations under the License.
 
-@angular/core@6.1.8
-MIT
-MIT
-
 tslib@1.9.3
 Apache-2.0
 Apache License
@@ -264,11 +260,15 @@ If the Work includes a "NOTICE" text file as part of its distribution, then any 
 
 END OF TERMS AND CONDITIONS
 
-@angular/common@6.1.8
+@angular/core@6.1.8
 MIT
 MIT
 
 angularfire2@5.0.2
+MIT
+MIT
+
+@angular/common@6.1.8
 MIT
 MIT
 
